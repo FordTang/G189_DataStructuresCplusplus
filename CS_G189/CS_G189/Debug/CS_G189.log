@@ -1,0 +1,18 @@
+﻿Build started 4/16/2013 5:53:36 PM.
+     1>Project "C:\Users\C02122472\Desktop\CS_G189\CS_G189\CS_G189.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CS_G189.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "..\CS_189_Source_Code\Chapter 10 Source Code\Ch10_SelectionSort\testProgArrayBasedList.cpp"
+         testProgArrayBasedList.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\C02122472\Desktop\CS_G189\Debug\CS_G189.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\C02122472\Desktop\CS_G189\Debug\CS_G189.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\C02122472\Desktop\CS_G189\Debug\CS_G189.lib" /MACHINE:X86 Debug\testProgArrayBasedList.obj
+         CS_G189.vcxproj -> C:\Users\C02122472\Desktop\CS_G189\Debug\CS_G189.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CS_G189.unsuccessfulbuild".
+         Touching "Debug\CS_G189.lastbuildstate".
+     1>Done Building Project "C:\Users\C02122472\Desktop\CS_G189\CS_G189\CS_G189.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
